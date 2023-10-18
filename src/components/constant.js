@@ -1,0 +1,1 @@
+export const fields = ["ID","NAME","EMAIL","AGE","GENDER","CITY"];
