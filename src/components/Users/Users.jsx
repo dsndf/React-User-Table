@@ -90,7 +90,7 @@ const Users = () => {
       </div>
 
       <small className="text-center block p-4 font-medium">
-        All availbale users in database.
+        All available users in database.
       </small>
     </div>
   );
